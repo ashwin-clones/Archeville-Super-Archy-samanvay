@@ -1,9 +1,10 @@
-# Archeville-Super-Archy-samanvay
 
-for run :- 
-# python game.py
 
-sample input :- 2
+# for run :- 
+python game.py
+
+# sample input :- 
+2
 A
 B
 C
