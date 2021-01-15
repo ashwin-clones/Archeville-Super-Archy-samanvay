@@ -1,7 +1,7 @@
 
 
 # for run :- 
-python game.py
+python samanvay.py
 
 # sample input :- 
 2
